@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib",
+    "allowJs": false,
+    "noEmitOnError": true,
+    "declaration": true,
+    "sourceMap": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "./src"
+  ],
+}
